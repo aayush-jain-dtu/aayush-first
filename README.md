@@ -1,3 +1,3 @@
 # aayush-first 
 this is my first git repository<br>
-author-aayush jain
+author-aayush jain(student)
